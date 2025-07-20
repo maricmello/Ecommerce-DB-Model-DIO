@@ -12,8 +12,6 @@ Este projeto consiste na modelagem e estruturação de um banco de dados relacio
 - [🗄️ Estrutura do Banco de Dados](#-estrutura-do-banco-de-dados)
 - [🔗 Relacionamentos](#-relacionamentos)
 - [📦 Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [🚀 Como Executar](#-como-executar)
-- [📌 Observações](#-observações)
 
 ---
 
