@@ -36,8 +36,6 @@ O modelo ER (Entidade-Relacionamento) representa:
 - Relacionamentos com cardinalidades e restrições de integridade
 - Herança (generalização) entre Pessoa Física e Jurídica
 
-> Diagrama disponível na pasta `/diagramas`.
-
 ---
 
 ## 🧩 Modelagem Lógica
