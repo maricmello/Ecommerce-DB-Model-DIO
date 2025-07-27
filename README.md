@@ -80,6 +80,10 @@ O banco de dados foi modelado utilizando o MySQL com foco na normalização e co
 
 ---
 
+> Diagrama disponível abaixo:
+
+![Diagrama E-commerce](arquivos/Ecommerce.png)
+
 ## 📦 Tecnologias Utilizadas
 
 - 💾 **MySQL** – Modelagem e estrutura relacional
